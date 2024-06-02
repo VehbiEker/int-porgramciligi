@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunSatisPortali.API", "UrunSatisPortali.API.csproj", "{0EFE9ECF-E45A-4F96-A175-8414FCE41DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunSatisPortali.UI", "..\UrunSatisPortali.UI\UrunSatisPortali.UI.csproj", "{8F32E0D7-FF77-4F8D-9FC0-46AD888C41D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EFE9ECF-E45A-4F96-A175-8414FCE41DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFE9ECF-E45A-4F96-A175-8414FCE41DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFE9ECF-E45A-4F96-A175-8414FCE41DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFE9ECF-E45A-4F96-A175-8414FCE41DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F32E0D7-FF77-4F8D-9FC0-46AD888C41D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F32E0D7-FF77-4F8D-9FC0-46AD888C41D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F32E0D7-FF77-4F8D-9FC0-46AD888C41D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F32E0D7-FF77-4F8D-9FC0-46AD888C41D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61739F3D-7466-4B42-8167-29FF7DC72E59}
+	EndGlobalSection
+EndGlobal
